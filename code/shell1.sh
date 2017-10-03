@@ -1,4 +1,4 @@
-#!/bin/bash....
+#!/bin/sh
 clear
 echo "Good morning, world."
 
